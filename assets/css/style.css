@@ -44,7 +44,7 @@ hr {
 	width: 100%;
 	height: 100vh;
 
-	background-image: url('/User/Desktop/mogo/assets/images/intro.jpg');
+	background-image: url('assets/images/intro.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
@@ -232,7 +232,7 @@ hr {
 .section--devices{
 	padding-bottom: 0; 
 
-	background: url(/User/Desktop/mogo/assets/images/images/bg1.jpg) center no-repeat;
+	background: url(assets/images/images/bg1.jpg) center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 
